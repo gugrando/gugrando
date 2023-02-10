@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=24C9AD&center=true&width=1000&height=300&lines=%F0%9F%91%8BOl%C3%A1%2C+eu+sou+Gustavo+Grando+Vieira%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB19+anos+de+idade%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Cursando+Engenharia+de+Software%7C;%F0%9F%92%99Seja+Bem-Vindo!%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=24C9AD&center=true&width=1000&height=300&lines=%F0%9F%91%8BOl%C3%A1%2C+eu+sou+Gustavo+Grando+Vieira%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB19+anos+de+idade%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Cursando+Engenharia+de+Software%7C;%F0%9F%92%99Seja+Bem-Vindo(a)!%7C" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">  
