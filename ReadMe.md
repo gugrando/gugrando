@@ -1,15 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2500&pause=1000&color=00F7D5&background=84FF2400&center=true&vCenter=true&width=850&height=100&lines=%F0%9F%91%8BOl%C3%A1%2C+eu+sou+Gustavo+Grando+Vieira%7C;%F0%9F%A4%9418+anos+de+idade%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Cursando+Engenharia+de+Software%7C;%F0%9F%92%99Seja+Bem-Vindo!%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=24C9AD&center=true&width=1000&height=300&lines=%F0%9F%91%8BOl%C3%A1%2C+eu+sou+Gustavo+Grando+Vieira%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB19+anos+de+idade%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Cursando+Engenharia+de+Software%7C;%F0%9F%92%99Seja+Bem-Vindo!%7C" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gugrando&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Grando github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugrando&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
-
-![Contribution](https://activity-graph.herokuapp.com/graph?username=gugrando&theme=gotham&hide_border=true&area=true)
 
 
 <h3 align="center">
