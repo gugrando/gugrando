@@ -1,19 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&duration=3000&pause=1000&color=24C9AD&center=true&width=1000&height=300&lines=%F0%9F%91%8BOl%C3%A1%2C+eu+sou+Gustavo+Grando+Vieira%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB19+anos+de+idade%7C;%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Cursando+Engenharia+de+Software%7C;%F0%9F%92%99Seja+Bem-Vindo(a)!%7C" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1550&pause=100&color=19BDCF&multiline=true&repeat=false&width=800&height=300&lines=-%F0%9F%91%8BHello%2C+I'm+Gustavo+Grando+Vieira;-%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB19+Years+Old;-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Bachelor+in+Software+Engineering+1%2F5;-%F0%9F%92%9AWelcome!;-...;-...;-%F0%9F%9A%80Currently+studying+Advanced+Javascript%2C;-+with+Type+%2B+React.js+and+Node+%2B+Express%2C+I+intend+to;-+become+a+Front-end+dev%2C+with+great+interest+;-+in+Mobile." alt="Typing SVG" /></a>
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gugrando&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Grando github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugrando&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-
-<h3 align="center">
+<h2>
 Stacks 
-</h3>
-<div align="center">  
+</h2>
+<div>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -24,10 +18,10 @@ Stacks
 
 <br/>  
 
-<h3 align="center">
+<h2>
 Libs & Frameworks 
-</h3> 
-<div align="center">  
+</h2> 
+<div>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
@@ -39,10 +33,10 @@ Libs & Frameworks
 </div>  
 
 <br />
-<h3 align="center">
+<h2>
 DevOps
-</h3> 
-<div align="center">  
+</h2> 
+<div>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
