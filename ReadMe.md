@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
  
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1550&pause=100&color=19BDCF&multiline=true&repeat=false&width=800&height=300&lines=-%F0%9F%91%8BHello%2C+I'm+Gustavo+Grando+Vieira;-%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB19+Years+Old;-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Bachelor+in+Software+Engineering+1%2F5;-%F0%9F%92%9AWelcome!;-...;-...;-%F0%9F%9A%80Currently+studying+Advanced+Javascript%2C;-+with+Type+%2B+React.js+and+Node+%2B+Express%2C+I+intend+to;-+become+a+Front-end+dev%2C+with+great+interest+;-+in+Mobile." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=1550&pause=100&color=19BDCF&multiline=true&repeat=false&width=800&height=300&lines=-%F0%9F%91%8BHello%2C+I'm+Gustavo+Grando+Vieira;-%F0%9F%91%A8%F0%9F%8F%BC%E2%80%8D%F0%9F%8F%AB20+Years+Old;-%F0%9F%91%A8%E2%80%8D%F0%9F%8E%93Bachelor+in+Software+Engineering+2%2F5;-%F0%9F%92%9AWelcome!;-...;-...;-%F0%9F%9A%80Currently+studying+Advanced+Javascript%2C;-+with+Type+%2B+React.js+and+Node+%2B+Express%2C+I+intend+to;-+become+a+Front-end+dev%2C+with+great+interest+;-+in+Mobile." alt="Typing SVG" /></a>
 </div>
 
 <h2>
